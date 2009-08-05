@@ -19,10 +19,10 @@ Screenshots
 -----------
 
 **C#**  
-![JavaScript](screenshot1.png)
+![JavaScript](http://github.com/mmonteleone/monokai-vs/raw/master/screenshot1.png)
 
 **JavaScript**  
-![JavaScript](screenshot2.png)
+![JavaScript](http://github.com/mmonteleone/monokai-vs/raw/master/screenshot2.png)
 
 Installation
 ------------
