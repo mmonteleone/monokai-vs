@@ -11,8 +11,20 @@ This vssettings file implements most of the original theme as closely as possibl
 Notes
 -----
 * Using this theme without having [Consolas][3] installed is a waste of time
-* This theme was designed on an XP station with ClearType enabled.  Depending on your version of 
+* Designed mostly for web work.  Not yet tested/optimized for XAML, etc.  Feel free to improve it!
+* This theme was designed on an XP box with ClearType enabled.  Depending on your version of 
 Windows/ClearType and your monitor, you may want to embolden or un-embolden the font.
+
+Screenshots
+===========
+
+C#
+--
+![JavaScript](screenshot1.png)
+
+JavaScript
+----------
+![JavaScript](screenshot2.png)
 
 Installation
 ============
