@@ -1,8 +1,7 @@
-Monokai for Visual Studio 2008
-==============================
+Monokai for Visual Studio
+=========================
 
-A Visual Studio 2008 Color Theme
---------------------------------
+Monokai Font and Color setting for Visual Studio 2008
 
 Upon not finding an existing Visual Studio implementation of [Wimer Hazenberg][2]'s excellent [TextMate][5] theme, [Monokai][1], I was certain that either I have strange taste, or the entire .NET development community has no taste.  I'm going with the latter, you chumps.
 
