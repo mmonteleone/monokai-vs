@@ -19,22 +19,22 @@ Screenshots
 -----------
 
 **C#**  
-![JavaScript](http://github.com/mmonteleone/monokai-vs/raw/master/screenshot1.png)
+![JavaScript](http://github.com/mmonteleone/monokai-vs/raw/master/screenshots/csharp.png)
 
 **JavaScript**  
-![JavaScript](http://github.com/mmonteleone/monokai-vs/raw/master/screenshot2.png)
+![JavaScript](http://github.com/mmonteleone/monokai-vs/raw/master/screenshots/javascript.png)
 
 Installation
 ------------
 
 Pretty standard:
 
-From Visual Studio, select  Tools > Import and Export Settings and follow the wizard.
+From Visual Studio, select  Tools > Import and Export Settings and follow the wizard to import monokai.vssettings
 
-This vssettings file only contains color data, but do please back up your settings anyway.  
+This vssettings file only contains font and color data, but do please back up your settings anyway.  
 
-Blame
------
+Credit
+------
 
 Copyright 2009 [Michael Monteleone][4]
 
