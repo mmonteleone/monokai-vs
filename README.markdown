@@ -16,18 +16,16 @@ Notes
 Windows/ClearType and your monitor, you may want to embolden or un-embolden the font.
 
 Screenshots
-===========
+-----------
 
-C#
---
+**C#**  
 ![JavaScript](screenshot1.png)
 
-JavaScript
-----------
+**JavaScript**  
 ![JavaScript](screenshot2.png)
 
 Installation
-============
+------------
 
 Pretty standard:
 
@@ -36,14 +34,14 @@ From Visual Studio, select  Tools > Import and Export Settings and follow the wi
 This vssettings file only contains color data, but do please back up your settings anyway.  
 
 Blame
-=====
+-----
 
 Copyright 2009 [Michael Monteleone][4]
 
 Based on the original [TextMate Theme][1] by [Wimer Hazenberg][2]
 
 License
-=======
+-------
 
 The MIT License
 
