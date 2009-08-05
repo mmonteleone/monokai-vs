@@ -64,7 +64,7 @@
 					</Category>
 					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontName="Consolas" FontSize="10" CharSet="0" FontIsDefault="No">
 						<Items>
-							<Item Name="Plain Text" Foreground="0x00F0F8F8" Background="0x001B201F" BoldFont="No"/>
+							<Item Name="Plain Text" Foreground="0x00F0F8F8" Background="0x00303836" BoldFont="No"/>
 							<Item Name="Selected Text" Foreground="0x00F2F8F8" Background="0x003E4849" BoldFont="No"/>
 							<Item Name="Line Numbers" Foreground="0x00EFD966" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="Visible White Space" Foreground="0x00EFD966" Background="0x02000000" BoldFont="Yes"/>
