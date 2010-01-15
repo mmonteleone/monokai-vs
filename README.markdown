@@ -3,6 +3,8 @@ Monokai for Visual Studio
 
 Monokai Font and Color setting for Visual Studio 2008 with heavy and light variations.
 
+**Proper support for Visual Studio 2010 coming soon.**
+
 Upon not finding an existing Visual Studio implementation of [Wimer Hazenberg][2]'s excellent [TextMate][5] theme, [Monokai][1], I was certain that either I have strange taste, or the entire .NET development community has no taste.  I'm going with the latter, you chumps.
 
 These vssettings files implement most of the original theme as closely as possible, taking into account that VS does not provide as many contextual elements for syntax coloring as TextMate.  In such cases, the theme tries to adhere to the spirit of Monokai rather than the letter.
