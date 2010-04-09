@@ -1,9 +1,7 @@
 Monokai for Visual Studio
 =========================
 
-Monokai Font and Color setting for Visual Studio 2008 with heavy and light variations.
-
-**Proper support for Visual Studio 2010 coming soon.**
+Monokai Font and Color setting for Visual Studio 2008 and 2010 with normal and bold variations.
 
 Upon not finding an existing Visual Studio implementation of [Wimer Hazenberg][2]'s excellent [TextMate][5] theme, [Monokai][1], I was certain that either I have strange taste, or the entire .NET development community has no taste.  I'm going with the latter, you chumps.
 
@@ -12,8 +10,8 @@ These vssettings files implement most of the original theme as closely as possib
 Notes
 -----
 * Using this theme without having [Consolas][3] installed is a waste of time
-* This theme was designed on an XP box with ClearType enabled.  Depending on your version of Windows/ClearType and your monitor, you may find the heavy (bold) or light (non-bold) variants better suit your environment.
-* Designed mostly for web work.  Not yet tested/optimized for XAML, etc.  Feel free to improve it!
+* This theme was originally designed on an XP box with ClearType enabled.  Depending on your version of Windows/ClearType and your monitor, you may find the bold or normal variants better suit your environment.
+* Designed mostly for web work.  Not yet optimized for XAML, etc.  Feel free to improve it!
 
 Screenshots
 -----------
@@ -29,7 +27,7 @@ Installation
 
 Pretty standard:
 
-From Visual Studio, select  Tools > Import and Export Settings and follow the wizard to import either monoka-heavy.vssettings or monokai-light.vssettings
+From Visual Studio, select  Tools > Import and Export Settings and follow the wizard to import either monokai-2010-normal.vssettings or monokai-2010-bold.vssettings
 
 The vssettings files only contain font and color data, but do please back up your settings anyway.  
 
